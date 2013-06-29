@@ -1,7 +1,7 @@
 {
-  "name": "the-new-sandbox",
-  "version": "0.4.0",
-  "description": "Sandbox site featuring typical Apostrophe features",
+  "name": "apostrophe-test",
+  "version": "1.0",
+  "description": "Just a test Apostrophe2 site.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": ""
   },
-  "author": "P'unk Avenue",
+  "author": "Michael Mackus",
   "license": "BSD",
   "dependencies": {
     "appy": "0.x",
